@@ -14,7 +14,7 @@ const Main = () => {
         </div>
         <div className="w-full sm:w-[70%] md:w-[60%] lg:w-[50%]">
     <h1 className="text-white font-bold text-3xl mt-6 mb-8">
-      Hey it's me,<span className='text-red-500'>Govinda Phuyal</span> 
+      Welcome,<span className='text-red-500'>Govinda Phuyal</span> 
     </h1>
 
     <p className="text-white w-full sm:w-[35rem] md:w-[30rem] lg:w-[25rem] mb-10">
